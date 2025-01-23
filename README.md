@@ -1,5 +1,8 @@
 # Hotel-Data-Analysis
 
+### Dashboard Link : 
+  https://app.powerbi.com/view?r=eyJrIjoiMzhlMzBkMTgtNWU5Ni00ZGRiLWJiNTYtOThiZjFkZGQ0NGEwIiwidCI6IjZjNDNlOWUxLTQ1YzMtNDI3Zi05MTU0LTg3ZWVmODlhYjg0YyIsImMiOjF9
+
 ## Table Of Contents
 
 - [Project Overview](#project-overview)
