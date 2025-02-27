@@ -22,6 +22,7 @@ Hotel Bookings Data : The dataset used for this analysis is "hotel_revenue_histo
 - PowerBI - Creating Reports
 
 ## Methodology:
+
 ### Step 1 : Database Development
 Starting the project, I utilized Microsoft SQL Server to create a database that could accommodate the provided data. The data consisted of multiple years, including 2018, 2019, and 2020. Additionally, we had data on meal costs and market segments. We imported the relevant data from Excel sheets into the SQL database for further analysis.
 
