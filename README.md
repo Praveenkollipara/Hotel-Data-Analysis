@@ -17,9 +17,7 @@ The objective of this data project was to develop a comprehensive database to an
 ## Data Sources
 Hotel Bookings Data : The dataset used for this analysis is "hotel_revenue_historical_full-2.xlsx".
 
-## Tools
-- SQL Server - Data Cleaning and Analysis
-- PowerBI - Creating Reports
+
 
 ## Methodology:
 
